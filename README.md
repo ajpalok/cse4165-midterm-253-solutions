@@ -2,6 +2,20 @@
 
 This repository contains **unresponsive** (non-mobile-friendly) solutions to the questions from the Mid Term examination for course **CSE4165_A**.
 
+## Links
+
+- 🔗 **GitHub repository**: [ajpalok/cse4165-midterm-253-solutions](https://github.com/ajpalok/cse4165-midterm-253-solutions)
+  
+  https://github.com/ajpalok/cse4165-midterm-253-solutions
+
+- 🚀 **Live demo — Code 1 (ProConnect Landing)**: [Open demo (Code1)](https://ajpalok.github.io/cse4165-midterm-253-solutions/code1)
+  
+  https://ajpalok.github.io/cse4165-midterm-253-solutions/code1
+
+- 🚀 **Live demo — Code 2 (Dashboard Interface)**: [Open demo (Code2)](https://ajpalok.github.io/cse4165-midterm-253-solutions/code2)
+  
+  https://ajpalok.github.io/cse4165-midterm-253-solutions/code2
+
 ## 📄 Mid Term Question Paper
 
 The original question paper can be found here:  
